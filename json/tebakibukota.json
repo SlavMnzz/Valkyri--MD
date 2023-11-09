@@ -1,0 +1,532 @@
+[
+  {
+    "index": 0,
+    "soal": "Afganistan",
+    "jawaban": "KABUL"
+  },
+  {
+    "index": 1,
+    "soal": "Albania",
+    "jawaban": "TIRANA"
+  },
+  {
+    "index": 2,
+    "soal": "Aljazair",
+    "jawaban": "ALGIERS"
+  },
+  {
+    "index": 3,
+    "soal": "Arab Saudi",
+    "jawaban": "RIYADH"
+  },
+  {
+    "index": 4,
+    "soal": "Argentina",
+    "jawaban": "BUENOS AIRES"
+  },
+  {
+    "index": 5,
+    "soal": "Bangladesh",
+    "jawaban": "DHAKA"
+  },
+  {
+    "index": 6,
+    "soal": "Belgia",
+    "jawaban": "BRUSSELS"
+  },
+  {
+    "index": 7,
+    "soal": "China",
+    "jawaban": "BEIJING"
+  },
+  {
+    "index": 8,
+    "soal": "Brunei",
+    "jawaban": "BANDAR SERI BEGAWAN"
+  },
+  {
+    "index": 9,
+    "soal": "Denmark",
+    "jawaban": "KOPENHAGEN"
+  },
+  {
+    "index": 10,
+    "soal": "Ekuador",
+    "jawaban": "QUITO"
+  },
+  {
+    "index": 11,
+    "soal": "El-Salvador",
+    "jawaban": "SAN SALVADOR"
+  },
+  {
+    "index": 12,
+    "soal": "Fiji",
+    "jawaban": "SUVA"
+  },
+  {
+    "index": 13,
+    "soal": "Filipina",
+    "jawaban": "MANILA"
+  },
+  {
+    "index": 14,
+    "soal": "Guyana",
+    "jawaban": "GEORGETOWN"
+  },
+  {
+    "index": 15,
+    "soal": "India",
+    "jawaban": "NEW DELHI"
+  },
+  {
+    "index": 16,
+    "soal": "Inggris",
+    "jawaban": "LONDON"
+  },
+  {
+    "index": 17,
+    "soal": "Indonesia",
+    "jawaban": "JAKARTA"
+  },
+  {
+    "index": 18,
+    "soal": "Hongaria",
+    "jawaban": "BODAPEST"
+  },
+  {
+    "index": 19,
+    "soal": "Irak",
+    "jawaban": "BAGHDAD"
+  },
+  {
+    "index": 20,
+    "soal": "Thailand",
+    "jawaban": "BANGKOK"
+  },
+  {
+    "index": 21,
+    "soal": "Irlandia",
+    "jawaban": "DUBLIN"
+  },
+  {
+    "index": 22,
+    "soal": "Israel",
+    "jawaban": "YERUSALEM"
+  },
+  {
+    "index": 23,
+    "soal": "Islandia",
+    "jawaban": "REKJAVIK"
+  },
+  {
+    "index": 24,
+    "soal": "Jepang",
+    "jawaban": "TOKYO"
+  },
+  {
+    "index": 25,
+    "soal": "Jerman",
+    "jawaban": "BERLIN"
+  },
+  {
+    "index": 26,
+    "soal": "Georgia",
+    "jawaban": "TBILISI"
+  },
+  {
+    "index": 27,
+    "soal": "Yaman",
+    "jawaban": "KELELAWAR"
+  },
+  {
+    "index": 28,
+    "soal": "Yordania",
+    "jawaban": "AMMAN"
+  },
+  {
+    "index": 29,
+    "soal": "Kazakhstan",
+    "jawaban": "NUR SULTAN"
+  },
+  {
+    "index": 30,
+    "soal": "Kenya",
+    "jawaban": "NAIROBI"
+  },
+  {
+    "index": 31,
+    "soal": "Kolombia",
+    "jawaban": "BOGOTA"
+  },
+  {
+    "index": 32,
+    "soal": "Kongo",
+    "jawaban": "BRAZZAVILLE"
+  },
+  {
+    "index": 33,
+    "soal": "Komoro",
+    "jawaban": "MORONI"
+  },
+  {
+    "index": 34,
+    "soal": "Kuwait",
+    "jawaban": "KUWAIT CITY"
+  },
+  {
+    "index": 35,
+    "soal": "Kuba",
+    "jawaban": "HAVANA"
+  },
+  {
+    "index": 36,
+    "soal": "Kongo",
+    "jawaban": "BARZZAVILLE"
+  },
+  {
+    "index": 37,
+    "soal": "Laos",
+    "jawaban": "VIENTIANE"
+  },
+  {
+    "index": 38,
+    "soal": "Vietnam",
+    "jawaban": "HANOI"
+  },
+  {
+    "index": 39,
+    "soal": "Lebanon",
+    "jawaban": "BEIRUT"
+  },
+  {
+    "index": 40,
+    "soal": "Lituania",
+    "jawaban": "VILNIUS"
+  },
+  {
+    "index": 41,
+    "soal": "Liechtenstein",
+    "jawaban": "VADUZ"
+  },
+  {
+    "index": 42,
+    "soal": "Malawi",
+    "jawaban": "LILONGWE"
+  },
+  {
+    "index": 43,
+    "soal": "Luksemburg",
+    "jawaban": "LUKSEMBURG"
+  },
+  {
+    "index": 44,
+    "soal": "Madagaskar",
+    "jawaban": "ANTANANARIVO"
+  },
+  {
+    "index": 45,
+    "soal": "Malaysia",
+    "jawaban": "KUALA LUMPUR"
+  },
+  {
+    "index": 46,
+    "soal": "Maroko",
+    "jawaban": "RABAT"
+  },
+  {
+    "index": 47,
+    "soal": "Myanmar (Burma)",
+    "jawaban": "NAYPYDAW"
+  },
+  {
+    "index": 48,
+    "soal": "Niger",
+    "jawaban": "NIAMEY"
+  },
+  {
+    "index": 49,
+    "soal": "Nigeria",
+    "jawaban": "ABUJA"
+  },
+  {
+    "index": 50,
+    "soal": "Mozambik",
+    "jawaban": "MAPUTO"
+  },
+  {
+    "index": 51,
+    "soal": "Nambia",
+    "jawaban": "WINDHOEK"
+  },
+  {
+    "index": 52,
+    "soal": "Peru",
+    "jawaban": "LIMA"
+  },
+  {
+    "index": 53,
+    "soal": "Paraguay",
+    "jawaban": "ASUNCION"
+  },
+  {
+    "index": 54,
+    "soal": "Palestina",
+    "jawaban": "JERUSALEM"
+  },
+  {
+    "index": 55,
+    "soal": "Prancis",
+    "jawaban": "PARIS"
+  },
+  {
+    "index": 56,
+    "soal": "Portugal",
+    "jawaban": "LISBON"
+  },
+  {
+    "index": 57,
+    "soal": "Qatar",
+    "jawaban": "DOHA"
+  },
+  {
+    "index": 58,
+    "soal": "Rusia",
+    "jawaban": "MOSKOW"
+  },
+  {
+    "index": 59,
+    "soal": "Serbia",
+    "jawaban": "KUCING"
+  },
+  {
+    "index": 60,
+    "soal": "Saint Lucia",
+    "jawaban": "JUARA"
+  },
+  {
+    "index": 61,
+    "soal": "San Marino",
+    "jawaban": "SETRIKA"
+  },
+  {
+    "index": 62,
+    "soal": "Selandia Baru",
+    "jawaban": "ULANG TAHUN"
+  },
+  {
+    "index": 63,
+    "soal": "Sinegal",
+    "jawaban": "HELM"
+  },
+  {
+    "index": 64,
+    "soal": "Singapura",
+    "jawaban": "PRAMUGARI"
+  },
+  {
+    "index": 65,
+    "soal": "Somalia",
+    "jawaban": "KENTUT"
+  },
+  {
+    "index": 66,
+    "soal": "Sierra Leone",
+    "jawaban": "PANAS"
+  },
+  {
+    "index": 67,
+    "soal": "Tadjikistan",
+    "jawaban": "DADU"
+  },
+  {
+    "index": 68,
+    "soal": "Sudan Selatan",
+    "jawaban": "PELANGI"
+  },
+  {
+    "index": 69,
+    "soal": "Slovenia",
+    "jawaban": "PERMEN"
+  },
+  {
+    "index": 70,
+    "soal": "Sri Lanka",
+    "jawaban": "KLAKSON"
+  },
+  {
+    "index": 71,
+    "soal": "Slovakia",
+    "jawaban": "KANGGURU"
+  },
+  {
+    "index": 72,
+    "soal": "Tuvalu",
+    "jawaban": "HARTA KARUN"
+  },
+  {
+    "index": 73,
+    "soal": "Turkmenistan",
+    "jawaban": "WORTEL"
+  },
+  {
+    "index": 74,
+    "soal": "Turki",
+    "jawaban": "DARAH"
+  },
+  {
+    "index": 75,
+    "soal": "Trinidad dan Tobago",
+    "jawaban": "GARAM"
+  },
+  {
+    "index": 76,
+    "soal": "Tunisia",
+    "jawaban": "PARU PARU"
+  },
+  {
+    "index": 77,
+    "soal": "Taiwan",
+    "jawaban": "SABUK"
+  },
+  {
+    "index": 78,
+    "soal": "Tanzania",
+    "jawaban": "Pusing"
+  },
+  {
+    "index": 79,
+    "soal": "Timor Leste",
+    "jawaban": "LALAT"
+  },
+  {
+    "index": 80,
+    "soal": "Tonga",
+    "jawaban": "DORAEMON"
+  },
+  {
+    "index": 81,
+    "soal": "Zambia",
+    "jawaban": "DESEMBER"
+  },
+  {
+    "index": 82,
+    "soal": "Yordania",
+    "jawaban": "KATAK"
+  },
+  {
+    "index": 83,
+    "soal": "Kepulauan Solomon",
+    "jawaban": "TAS"
+  },
+  {
+    "index": 84,
+    "soal": "Uzbekistan",
+    "jawaban": "GURUN PASIR"
+  },
+  {
+    "index": 85,
+    "soal": "Uni Emirat Arab",
+    "jawaban": "TISU"
+  },
+  {
+    "index": 86,
+    "soal": "Uganda",
+    "jawaban": "RESLETING"
+  },
+  {
+    "index": 87,
+    "soal": "Ukraina",
+    "jawaban": "AIR"
+  },
+  {
+    "index": 88,
+    "soal": "Uruguay",
+    "jawaban": "TELINGA"
+  },
+  {
+    "index": 89,
+    "soal": "Vanuatu",
+    "jawaban": "PUTIH"
+  },
+  {
+    "index": 90,
+    "soal": "Vietnam",
+    "jawaban": "PINOKIO"
+  },
+  {
+    "index": 91,
+    "soal": "Vietnam",
+    "jawaban": "ALIEN"
+  },
+  {
+    "index": 92,
+    "soal": "Yunani",
+    "jawaban": "TELEPON"
+  },
+  {
+    "index": 93,
+    "soal": "Zambia",
+    "jawaban": "TANGGA"
+  },
+  {
+    "index": 94,
+    "soal": "Zimbabwe",
+    "jawaban": "TOPI"
+  },
+  {
+    "index": 95,
+    "soal": "Kosovo",
+    "jawaban": "TERBANG"
+  },
+  {
+    "index": 96,
+    "soal": "Yordania",
+    "jawaban": "NGOROK"
+  },
+  {
+    "index": 97,
+    "soal": "Venezuela",
+    "jawaban": "MAGNET"
+  },
+  {
+    "index": 98,
+    "soal": "Negara Federasi Mikronesia",
+    "jawaban": "KERETA API"
+  },
+  {
+    "index": 99,
+    "soal": "Palau",
+    "jawaban": "KACAMATA"
+  },
+  {
+    "index": 100,
+    "soal": "Sahrawi Arab Democratic Republic",
+    "jawaban": "KIPER"
+  },
+  {
+    "index": 101,
+    "soal": "Kepulauan Marshall",
+    "jawaban": "INDIA"
+  },
+  {
+    "index": 102,
+    "soal": "Kiribati",
+    "jawaban": "SULAP"
+  },
+  {
+    "index": 103,
+    "soal": "Samoa",
+    "jawaban": "POHON"
+  },
+  {
+    "index": 104,
+    "soal": "Tonga",
+    "jawaban": "PIRANHA"
+  },
+  {
+    "index": 105,
+    "soal": "Barbados",
+    "jawaban": "KEYBOARD"
+  }
+]

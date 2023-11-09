@@ -7,7 +7,7 @@ global.link = {
 	ig: 'https://chat.whatsapp.com/Ecu9eXIbpF31yDb1Rnzq6j',
 	gh: 'https://github.com/SlavMnzz',
 	gc: 'https://chat.whatsapp.com/Ecu9eXIbpF31yDb1Rnzq6j',
-	web: 'https://valkyrie.carrd.co,
+	web: 'https://valkyrie.carrd.co',
 	nh: 'https://nhentai.net/g/365296/'
 }
 
